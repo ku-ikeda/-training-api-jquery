@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+label {
+  border: 2px solid #aaf;
+  border-radius: 9px;
+  padding: 2px 6px 2px 2px;
+  cursor: pointer;
+}
+
+label:hover {
+  background-color: #aaf;
+  color: white;
+}
+
+li {
+  line-height: 1.6;
+}
+
+#btn {
+  width: 100px;
+  height: 30px;
+}
